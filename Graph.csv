@@ -1,0 +1,11 @@
+﻿v_from;v_to;weight
+S;A;2
+S;D;11
+S;B;7
+S;C;9
+A;B;4
+B;D;6
+B;C;2
+C;D;3
+D;Z;4
+C;Z;9
